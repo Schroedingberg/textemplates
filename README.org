@@ -1,0 +1,6 @@
+* A collection of LaTeX snippets
+
+Not much else to find here at the moment.
+This is just to keep everything safely stored so standard LaTeX work can be sped up.
+If you want to add something, feel free to branch!
+
